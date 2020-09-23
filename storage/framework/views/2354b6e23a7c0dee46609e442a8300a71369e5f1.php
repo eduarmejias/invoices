@@ -1,0 +1,1 @@
+<h1>Hola, <?php echo e($users->proceso_mes); ?></h1><?php /**PATH /var/www/html/laravel/invoices/resources/views/usuario.blade.php ENDPATH**/ ?>
